@@ -1,0 +1,24 @@
+{
+  "name": "karlkim",
+  "version": "1.0.0",
+  "description": "Karl KIM's personal website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krlkm/karlkim.git"
+  },
+  "keywords": [
+    "karlkim",
+    "personal",
+    "website"
+  ],
+  "author": "karlkim.cn@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krlkm/karlkim/issues"
+  },
+  "homepage": "https://github.com/krlkm/karlkim#readme"
+}
